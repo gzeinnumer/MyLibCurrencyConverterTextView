@@ -45,8 +45,8 @@ dependencies {
 
 **Note** `RP 123,456,789.111` To Remove `Prefix` `RP` and symbol `,` you can use this :
 ```java
-TextView textView = findViewById(R.id.tv);
-TextView textView2 = findViewById(R.id.tv2);
+TextView textView = findViewById(R.id.textView);
+TextView textView2 = findViewById(R.id.textView2);
 
 textView.setText(CurrencyTextView.changePattern("Rp ","10000"));
 
