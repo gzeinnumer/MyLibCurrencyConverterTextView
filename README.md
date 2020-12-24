@@ -60,7 +60,7 @@ textView2.setText(CurrencyTextView.trimCommaOfString("Rp ",textView.getText().to
 
 ---
 
-**FullCode [MainActivity](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/java/com/gzeinnumer/mylibcurrencyconverterTextView/MainActivity.java)  & [XML](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/res/layout/activity_main.xml)**
+**FullCode [MainActivity](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/java/com/gzeinnumer/mylibcurrencyconvertertextview/MainActivity.java)  & [XML](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/res/layout/activity_main.xml)**
 
 ---
 
