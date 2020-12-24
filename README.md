@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example12.jpg" width="400"/>
+  <img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1.jpg" width="400"/>
 </p>
 
 <h1 align="center">
@@ -31,26 +31,13 @@ allprojects {
 // build.gradle app/module
 dependencies {
   ...
-  implementation 'com.github.gzeinnumer:MyLibCurrencyConverterTextViewTextView:version'
+  implementation 'com.github.gzeinnumer:MyLibCurrencyConverterTextView:version'
   implementation 'com.google.android.material:material:1.2.0'
 }
 ```
 
 ## Feature List
 - [x] **CurrencyConverter Programatically**.
-
-## Tech stack and 3rd library
-- Material.io ([docs](https://material.io/develop/android/docs/getting-started))
-
----
-
-**First Step**. Use `MaterialComponents` in your style :
-
-```xml
-<style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
-    <!-- Customize your theme here. -->
-</style>
-```
 
 ---
 ## Use
@@ -69,8 +56,8 @@ textView2.setText(CurrencyTextView.trimCommaOfString("Rp ",textView.getText().to
 ```
 
 **Preview** :
-|<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example6.jpg" width="400"/>|<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example11.jpg" width="400"/>|
-|---|---|
+|<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1.jpg" width="400"/>|
+|---|
 
 ---
 
