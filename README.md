@@ -32,7 +32,6 @@ allprojects {
 dependencies {
   ...
   implementation 'com.github.gzeinnumer:MyLibCurrencyConverterTextView:version'
-  implementation 'com.google.android.material:material:1.2.0'
 }
 ```
 
