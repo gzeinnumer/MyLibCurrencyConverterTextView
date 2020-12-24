@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1.jpg" width="400"/>
+  <img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1_1.jpg" width="400"/>
 </p>
 
 <h1 align="center">
@@ -55,7 +55,7 @@ textView2.setText(CurrencyTextView.trimCommaOfString("Rp ",textView.getText().to
 ```
 
 **Preview** :
-|<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1.jpg" width="400"/>|
+|<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1_1.jpg" width="400"/>|
 |---|
 
 ---
