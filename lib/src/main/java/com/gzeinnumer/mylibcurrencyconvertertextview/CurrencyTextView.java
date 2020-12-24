@@ -8,6 +8,30 @@ import java.util.Locale;
 
 public class CurrencyTextView {
 
+    public static String changePattern(String prefix, int value) {
+        String cleanString = String.valueOf(value).replace(prefix, "").replaceAll("[,]", "");
+
+        String formattedString;
+        if (cleanString.contains(".")) {
+            formattedString = formatDecimal(cleanString, prefix);
+        } else {
+            formattedString = formatInteger(cleanString, prefix);
+        }
+        return formattedString;
+    }
+
+    public static String changePattern(String prefix, double value) {
+        String cleanString = String.valueOf(value).replace(prefix, "").replaceAll("[,]", "");
+
+        String formattedString;
+        if (cleanString.contains(".")) {
+            formattedString = formatDecimal(cleanString, prefix);
+        } else {
+            formattedString = formatInteger(cleanString, prefix);
+        }
+        return formattedString;
+    }
+
     public static String changePattern(String prefix, String value) {
         String cleanString = value.replace(prefix, "").replaceAll("[,]", "");
 
