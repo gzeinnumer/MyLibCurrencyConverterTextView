@@ -21,7 +21,6 @@
 * [Download](#download)
 * [Feature List](#feature-list)
 * [Usage](#usage)
-* [Example Code/App](#example-codeapp)
 * [Version](#version)
 * [Contribution](#contribution)
 
@@ -67,13 +66,6 @@ textView2.setText(CurrencyTextView.trimCommaOfString("Rp ",textView.getText().to
 **Preview** :
 |<img src="https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/preview/example1_1.jpg" width="400"/>|
 |---|
-
----
-# Example Code/App
-
-**FullCode [MainActivity](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/java/com/gzeinnumer/mylibcurrencyconvertertextview/MainActivity.java)  & [XML](https://github.com/gzeinnumer/MyLibCurrencyConverterTextView/blob/master/app/src/main/res/layout/activity_main.xml)**
-
-[Sample Code And App](https://github.com/gzeinnumer/MyLibCurrencyConverterTextViewExample)
 
 ---
 # Version
